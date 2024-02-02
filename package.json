@@ -1,0 +1,32 @@
+{
+  "name": "circles",
+  "version": "1.0.0",
+  "description": "View your contacts, social connections and remember birthdays and details.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emiliawil/circles.git"
+  },
+  "keywords": [
+    "contacts",
+    "electron",
+    "tracker",
+    "birthdays",
+    "list",
+    "details",
+    "notes"
+  ],
+  "author": "Emilia Williamson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emiliawil/circles/issues"
+  },
+  "homepage": "https://github.com/emiliawil/circles#readme",
+  "devDependencies": {
+    "electron": "^28.2.0"
+  }
+}
